@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+flask
+requests
+python-dotenv
+pandas
+ta   # technical analysis library (RSI, EMA, MACD)
